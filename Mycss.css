@@ -1,0 +1,520 @@
+/*---------------------HEADER-------------------------*/
+
+header{
+    background-color: rgb(27, 27, 27) ;
+    padding: 15px 0px 5px 0px;
+    height: 50px;
+    width: 100%;
+}
+
+.head11 {
+    float: left;
+    padding-left: 50px;
+}
+header img{
+	float:left;
+    padding-left: 200px;
+    padding-right: 500px;
+}
+
+.head11 a{
+    color: rgb(169, 255, 255);
+}
+ul a{
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+/*-----------------MAIN----------------------------*/
+main{
+	width: 100%;
+	height: 3400px;
+	background-color:rgb(255, 255, 255);
+	margin-top: 3px;
+}
+
+section {
+    width: 100%;
+	height: 610px;
+	background-color:rgb(255, 236, 219);
+    
+}
+
+/*----------------SEC0------------------------------------*/
+#sec0 {
+    float: left;
+}
+.canhan {
+    padding-left: 80px;
+    padding-top: 10px;
+}
+/*---------------SEC1-------------------------------------*/
+#sec1 {
+    float: left;
+}
+
+.sec11 {
+    margin: 0px 50px 0px;
+    padding: 3px 0px 5px 355px;
+    color: rgb(255, 195, 191);
+}
+
+.sec12 {
+    margin: 0px 50px 0px;
+    padding: 5px 0px 0px 230px;
+    color: rgb(234, 31, 102);
+}
+
+.sec13 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 305px;
+    color: rgb(19, 39, 110);
+}
+
+.sec14 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 305px;
+    color: rgb(19, 39, 110);
+}
+
+.sec15 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 305px;
+    color: rgb(19, 39, 110);
+}
+
+.sec16 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 305px;
+    color: rgb(19, 39, 110);
+}
+
+.sec17 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 305px;
+    color: rgb(19, 39, 110);
+}
+/*-----------------SEC2-----------------*/
+#sec2 {
+	background-color: rgb(25, 25, 25);
+	height: 1720px;
+	width: 100%;
+	padding-top: 50PX;
+    margin-top: 000px;
+}
+
+.sec21 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 205px;
+    color: rgb(255, 255, 255);
+}
+
+.sec22 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 205px;
+    color: rgb(255, 255, 255);
+}
+
+.sec23 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 205px;
+    color: rgb(255, 255, 255);
+}
+
+.sec24 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 35px;
+    color: rgb(255, 255, 255);
+}
+
+.sec25 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 305px;
+    color: rgb(255, 255, 255);
+}
+
+.sec26 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 355px;
+    color: rgb(255, 255, 255);
+}
+
+.sec27 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 485px;
+    color: rgb(255, 255, 255);
+}
+
+.sec28 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 255px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/*---------------SEC3-------------------------*/
+#sec3 {
+    float: left;
+}
+.sec29 {
+    padding: 180px 0px 50px 250px;
+	color:#FFF;
+}
+
+.sec291 {
+    padding: 0px 0px 0px 280px;
+	color:#FFF;
+}
+.sec292 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+.sec293 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+.sec294 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+
+.sec295 {
+    padding: 10px 0px 0px 280px;
+	color:#FFF;
+}
+
+.sec296 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+.sec297 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+/*-----------------SEC4----------------------*/
+#sec4 {
+	float: left;	
+}
+
+.canhan1 {
+    margin: 0px 5px 0px;
+    padding: 150px 0px 5px 205px;
+    color: rgb(255, 190, 213);
+}
+/*------------SECd-----------------------------*/
+#secd {
+    color: rgb(255, 255, 255);
+    background-color: #4e4e4e;
+    padding-top: 50px; padding-bottom: 50px;
+    height: 1020px ;
+}
+/*----------------SEC51-----------------------*/
+.sec55 {
+    padding-left: 850px;
+}
+
+
+/*--------------SEC6-----------------------------*/
+#sec6 {
+    float: left;
+}
+
+.sec66 {
+    padding-left: 1550px;
+  
+    color: rgb(220, 111, 10);
+
+    font-size: 200%;
+}
+
+/*-----------------------S6-----------------*/
+#s6 {
+    background-color: black;
+    height: 550px;
+    width: 100%;
+    display: flex;
+    margin-top: 100px;
+}
+/*-------------------SOFTWERE-----------------*/
+
+.soft {
+    color: #ffd382;
+    background-color: #151515;
+    height: 50px;
+    width: 600px;
+    padding-left: 230px; padding-top: 0px;
+    margin-left: 320px; margin-top: 100px;
+}
+
+/*---------------------bang---------*/
+#bang {
+    float: left;
+    margin-top: 50px; 
+}
+
+.bang1 {
+    color: #FFF; font-size: 150%;
+    padding-left: 350px; 
+    padding-top: 35px;   
+}
+/*------------------------daucham------------------*/
+#daucham {
+    float: left; margin-top: 70px;
+}
+
+.dau1 {
+    color: #f2ff03;
+    padding-left: 480px;
+   
+}
+
+.dau2 {
+    color: #e5ff4f;
+    padding-left: 480px;
+    padding-top: 15px;
+}
+.dau3 {
+    color: #d7b023;
+    padding-left: 480px;
+    padding-top: 15px;
+}
+/*-------------giay------*/
+#giay {
+    width: 100%;
+	height: 300px;
+	background-color:rgb(0, 0, 0);
+	margin: 0px 0px 0px;
+	font-family: Tahoma;
+	display: flex;
+    padding-top: 95px;
+}
+
+#giay1 {
+    float: left;
+}
+.giay11 {
+    padding-left: 180px;
+}
+#giay2 {
+    float: left;
+}
+
+.giay22 {
+    padding-left: 250px;
+}
+#giay3 {
+    float: left;
+}
+
+.giay33 {
+    padding-left: 250px;
+}
+/*-------------------------------------*/
+#project {
+    width: 100%;
+	height: 650px;
+	background-color:rgb(0, 0, 0);
+	font-family: Tahoma;
+	display: flex;
+}
+
+#pr1 {
+    float: left;
+}
+
+.pr11{
+    color: #FFF;
+}
+#pr22 {
+    float: left;
+}
+
+#pr3 {
+    float: left;
+}
+/*-------------view-----------------*/
+#view{
+	
+	height: 100px;
+	background-color:rgb(0, 0, 0);
+    padding-left: 650px;
+    display: flex;
+}
+/*-------------service-----------------*/
+#sv {
+    background-color: #4e4e4e; 
+    width: 100%;height: 410px;
+    display: flex;
+    padding-top: 50px; color: #FFF;
+}
+
+#sv1 {
+    float: left;
+}
+
+.sv11{
+    color: #FFF;
+}
+#sv22 {
+    float: left;
+    color: #FFF;
+}
+
+#sv3 {
+    float: left;  
+}
+/*-----------------*/
+#sv {
+    background-color: #4e4e4e; 
+    width: 100%;height: 410px;
+    display: flex;
+    padding-top: 50px;color: aqua;
+}
+/*-------------Q&A--------*/
+#more {
+	height: 100px;
+	background-color:#4e4e4e;
+    padding-left: 650px;
+    display: flex;
+}
+/*--------------q&a--------*/
+#qa {	
+	height: 250px;
+	background-color:rgb(0, 0, 0);
+    padding-left: 200px;
+    display: flex;  
+}
+#hr {	
+	height: 50px;
+	background-color:rgb(0, 0, 0);
+
+    display: flex;  
+}
+/*----q1----------------*/
+#q1 {
+    height: 150px;
+	background-color:rgb(0, 0, 0);
+    padding-left: 100px;
+    display: flex;  
+    color: #FFF;
+    font-size: 200%;
+}
+
+#q11 {
+    float: left;
+    color: #FFF;
+    padding-left: 200px;
+}
+
+#q12 {
+    float: left;
+    padding-left: 300px;
+
+}
+#q13 {
+    float: left;
+    color: #FFF;
+    padding-top: 10px;
+}
+
+.daucong {
+    padding-right: 50px;
+}
+/*---------------sq1----------*/
+/*----q1----------------*/
+#sq1 {
+    height: 350px;
+	background-color:rgb(0, 0, 0);
+    padding-left: 100px;padding-top: 100px;
+    display: flex;  
+    color: #FFF;
+    font-size: 200%;
+}
+
+#sq11 {
+    float: left;
+    color: #FFF;
+    padding-left: 200px;padding-right: 50px;
+    padding-top: 0px;
+}
+
+#sq12 {
+    float: left;
+    padding-left: 200px;
+
+}
+#sq13 {
+    float: left;
+    margin-left: 300px;
+    border-color: #000000;
+}
+
+.sq112 {
+    font-size: 50%;color: #4e4e4e;
+    
+}
+
+#send {
+    padding-left: 55px;
+}
+.send1 {
+    background-color: #e77517;
+    padding: 5px 5px 5px 50px ;
+}
+
+/*--------------footer------------------*/
+footer{
+	width: 100%;
+	height: 340px;
+	background-color:rgb(21, 21, 21);
+	margin: 00px 0px 0px;
+	font-family: Tahoma;
+	display: flex;
+    padding-top: 50px;
+}
+
+/*----------------ft1------------------------*/
+#ft1 {
+	float: left;
+	margin: 0px;
+}
+.ft11{
+	margin: 0px 50px 50px 0px;
+	color: #FFF;
+	padding: 25px 20px 0px 10px;
+}
+.tdmu{
+	color: #FFF;
+}
+/*------------------ft2--------------*/
+#ft2 {
+	float: left;
+}
+.ft222 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 0px;
+	text-decoration: none;
+}
+/*-----------------ft3----------------*/
+#ft3 {
+    float: left;
+}
+
+.ft33 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 100px;
+	text-decoration: none;
+}
+/*------------------ft4------------*/
+#ft4 {
+    float: left;
+}
+
+.ft44 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 100px;
+	text-decoration: none;
+}
